@@ -217,19 +217,7 @@ const API_KEY = "YOUR_NEWSAPI_KEY";
 | Member 5 | Sidebar & Widgets        |
 | Member 6 | Async Features & UX      |
 
----
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Category Page
-* Search Page
-* Article Details
-* Night Edition
-
----
 
 # 📄 License
 
